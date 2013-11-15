@@ -1,1 +1,3 @@
-Tetris Game
+## Tetris Game
+
+Crafted by Elizar Pepino
